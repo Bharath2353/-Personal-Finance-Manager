@@ -4,7 +4,7 @@ A command-line based **Personal Finance Manager** built using **Python**, design
 
 ---
 
-##  Project Overview
+##  Project Overvie
 
 Managing personal expenses manually can be difficult and error-prone.  
 This project provides a **simple yet powerful command-line application** that allows users to:
